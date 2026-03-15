@@ -10,13 +10,7 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=D3DAD9"  />
-</div>
-
-###
-
-<h3 align="left">🛠️ Technologies & Tools</h3>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
 ###
 
@@ -60,32 +54,25 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=D3DAD9"  />
-</div>
+<h2 align="left">🌟 Get in Touch</h2>
 
 ###
 
-<h3 align="left">🌟 Let's Connect</h3>
+<p align="left">Reach out if you'd like to work together or just talk tech.</p>
 
 ###
 
 <div align="left">
-  <a href="mailto:samuelesplana.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/samuelesplana" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:samesplana.outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/samuelesplana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="mailto:samuelesplana.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=D3DAD9"  />
 </div>
 
 ###
