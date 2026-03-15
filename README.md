@@ -76,3 +76,8 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/wavysam/wavysam/output/snake.svg" alt="Snake animation" />
+
+###
+
